@@ -1,4 +1,12 @@
-### Hi there 👋
+<div  align="center">
+  <p>I'm a software engineer, based in Melbourne, Australia. </p>
+  <p>
+    I switched into tech after more than a decade in Mecahnical Engineering - I rediscovered my passion and living the dream now, building digital products and hoping to make the world a better place. 🧀
+  </p>
+  <p>
+  I am focused on back-end / full-stack and Machine Learning. I very much enjoy what I do.
+  </p>
+</div>
 
 <!--
 **JodyVanden/JodyVanden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
